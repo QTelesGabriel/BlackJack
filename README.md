@@ -38,12 +38,12 @@ make clean
 * Make
 
 ## Jogo
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="width: 78%">
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 100%">
     <img src="./images/menu.PNG" alt="menu do jogo">
     <img src="./images/regras.PNG" alt="regras do jogo">
   </div>
-  <div style="width: 18%">
+  <div style="width: 100%">
     <img src="./images/jogo.PNG" alt="imagem do jogo">
   </div>
 </div>

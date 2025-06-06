@@ -7,9 +7,6 @@ build/
 # Ignorar .vscode
 .vscode/
 
-# Ignorar images-readme
-images-readme/
-
 # Arquivos temporários do editor
 *~
 *.swp

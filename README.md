@@ -40,11 +40,11 @@ make clean
 ## Jogo
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 78%">
-    <img src="./images-readme/menu.PNG">
-    <img src="./images-readme/regras.PNG">
+    <img src="./images/menu.PNG" alt="menu do jogo">
+    <img src="./images/regras.PNG" alt="regras do jogo">
   </div>
   <div style="width: 18%">
-    <img src="./images-readme/jogo.PNG">
+    <img src="./images/jogo.PNG" alt="imagem do jogo">
   </div>
 </div>
 

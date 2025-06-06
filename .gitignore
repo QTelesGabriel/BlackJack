@@ -1,0 +1,24 @@
+# Ignorar executável
+blackjack
+
+# Ignorar pasta de objetos
+build/
+
+# Ignorar .vscode
+.vscode/
+
+# Ignorar images-readme
+images-readme/
+
+# Arquivos temporários do editor
+*~
+*.swp
+*.swo
+*.bak
+
+# Arquivos de backup do sistema (Windows)
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
